@@ -15,3 +15,13 @@ p{
         background-color: gold;
     }
 }
+
+h1{
+    font-family: Arial;
+    font:italic
+}
+
+h2, h3{
+    font-family: Arial;
+}
+
